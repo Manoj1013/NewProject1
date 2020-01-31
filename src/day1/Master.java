@@ -12,6 +12,7 @@ public class Master {
 	//m.get("https://www.adactin.com/HotelApp/index.php");
     m.get("https://www.adactin.com/HotelApp/Register.php");
     System.out.println("manoj");
+    System.out.println("firstbranch");
 
 }
 }
