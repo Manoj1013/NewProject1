@@ -11,6 +11,7 @@ public class Master {
 	WebDriver m=new ChromeDriver();
 	//m.get("https://www.adactin.com/HotelApp/index.php");
     m.get("https://www.adactin.com/HotelApp/Register.php");
+    System.out.println("manoj");
 
 }
 }
